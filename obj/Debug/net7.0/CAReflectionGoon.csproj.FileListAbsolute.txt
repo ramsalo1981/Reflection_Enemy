@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflectionGoon\bin\Debug\net7.0\CAReflectionGoon.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflectionGoon\bin\Debug\net7.0\CAReflectionGoon.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflectionGoon\bin\Debug\net7.0\CAReflectionGoon.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflectionGoon\bin\Debug\net7.0\CAReflectionGoon.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflectionGoon\bin\Debug\net7.0\CAReflectionGoon.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflectionGoon\obj\Debug\net7.0\CAReflectionGoon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflectionGoon\obj\Debug\net7.0\CAReflectionGoon.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflectionGoon\obj\Debug\net7.0\CAReflectionGoon.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflectionGoon\obj\Debug\net7.0\CAReflectionGoon.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflectionGoon\obj\Debug\net7.0\CAReflectionGoon.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflectionGoon\obj\Debug\net7.0\refint\CAReflectionGoon.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflectionGoon\obj\Debug\net7.0\CAReflectionGoon.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflectionGoon\obj\Debug\net7.0\CAReflectionGoon.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAReflectionGoon\obj\Debug\net7.0\ref\CAReflectionGoon.dll
